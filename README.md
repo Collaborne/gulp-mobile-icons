@@ -84,7 +84,7 @@ When using the app as a web application, you need to add to your `index.html` (s
 <!-- iPad -->
 <link rel="apple-touch-icon" sizes="152x152" href="images/images/ios-76@2x.png">
 <!-- iPad retina -->
-<link rel="apple-touch-icon" sizes="167x167" href="images/ios-83.5@2x">
+<link rel="apple-touch-icon" sizes="167x167" href="images/ios-83.5@2x.png">
 <!-- Chrome -->
 <link rel="icon" sizes="192x192" href="images/chrome-192.png">
 <link rel="icon" sizes="128x128" href="images/chrome-128.png">
